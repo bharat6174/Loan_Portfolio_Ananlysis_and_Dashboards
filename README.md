@@ -47,7 +47,7 @@ To visualize loans data for easy and better understanding of various KPIs and me
 10. **Applications by House Ownership**(Tree Map)
 
 ## Process
-1. Understanding the columns and their significance using data dictionary and data itself.
+1. Understanding the columns and their significance using data dictionary(<a href="https://github.com/bharat6174/Loan_Portfolio_Excel_Dashboards/blob/main/Data%20Dictionary.png">see dictionary</a>) and data itself.
 2. Analysing the data requirement for various KPIs.
 3. Then to create metrics and visualisations, creating appropriate pivot tables in a seperate sheet (named as **Design Sheet** in the excel file attached).
 4. Making required graphs along with respective pivot tables for various metrics and KPIs.
