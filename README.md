@@ -1,5 +1,4 @@
 # Loan_Portfolio_Dashboard
-## 2 interactive dashboards created using pivot tables in Excel
 ## Project Objective
 To visualize loans data for easy and better understanding of various KPIs and metrics. By using the stakeholders can take informed decisions for future approvals
 
