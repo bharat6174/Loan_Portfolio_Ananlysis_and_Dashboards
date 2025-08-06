@@ -7,7 +7,7 @@ To visualize loans data for easy and better understanding of various KPIs and me
 - <a href="https://github.com/bharat6174/Loan_Portfolio_Dashboards/blob/main/The%20Project%20-%20Data_Pivots_Dashboard.xlsx">Dataset</a>
 
 ## Questions (KPIs)
-**1. Aggregate Measures**(on both dashboards)
+**1.** **Aggregate Measures**(on both dashboards)
     - Total Loan Applications
         - Month to Date(MTD) Applications
         - Month on Month(MoM) Change in Applications
@@ -23,17 +23,17 @@ To visualize loans data for easy and better understanding of various KPIs and me
     - Average Debt-to-Income Ration(DTI): Overall
         - Average DTI: MTD
         - Average DTI: MoM
-**2. Good Loan Measures**
+**2.** **Good Loan Measures**
       - Good loan applications percentage
       - Total Good loan applications
       - Good Loan Disbursal Amount
       - Good Loan Collection Amount
-**3. Bad Loan Measures**
+**3.** **Bad Loan Measures**
       - Bad loan applications percentage
       - Total Bad loan applications
       - Bad Loan Disbursal Amount
       - Bad Loan Collection Amount
-**4. Grid View w.r.t. Loan Status**
+**4.** **Grid View w.r.t. Loan Status**
       - Applications
       - Disbursal Amount
       - Collection Amount
