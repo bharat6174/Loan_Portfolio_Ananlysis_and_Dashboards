@@ -61,10 +61,10 @@ To visualize loans data for easy and better understanding of various KPIs and me
 **Dashboard 1 - Summary Dashboard**<br>
 It has visualizations for KPIs 1 to 4<br>
 <img width="1547" height="820" alt="Dashboard_1" src="https://github.com/user-attachments/assets/d0c78f6b-f8eb-484c-bf92-746dc41a9563" /><br>
-- Dashboard Interaction <a href="https://github.com/bharat6174/Loan_Portfolio_Dashboards/blob/main/Dashboard_1.png">View Dashboard</a><br>
+- <a href="https://github.com/bharat6174/Loan_Portfolio_Dashboards/blob/main/Dashboard_1.png">View Dashboard</a><br>
 
 
 **Dashboard 2 - Applications Dashboard**<br>
 It has visualizations KPIs 1 and 5 to 10<br>
 <img width="1550" height="821" alt="Dashboard_2" src="https://github.com/user-attachments/assets/884b6f4b-34f5-488a-932b-c37626cb9bb6" /><br>
-- Dashboard Interaction <a href="https://github.com/bharat6174/Loan_Portfolio_Dashboards/blob/main/Dashboard_2.png">View Dashboard</a><br>
+- <a href="https://github.com/bharat6174/Loan_Portfolio_Dashboards/blob/main/Dashboard_2.png">View Dashboard</a><br>
