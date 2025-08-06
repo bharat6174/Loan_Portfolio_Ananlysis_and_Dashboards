@@ -8,21 +8,21 @@ To visualize loans data for easy and better understanding of various KPIs and me
 
 ## Questions (KPIs)
 1. Aggregate Measures (on both dashboards)
-  - Total Loan Applications
-      - Month to Date(MTD) Applications
-      - Month on Month(MoM) Change in Applications
-  - Total Disbursal Amount
-      - MTD Disbursal Amount
-      - MoM Disbursal Amount
-  - Total Collection Amount
-      - MTD Collection Amount
-      - MoM Collection Amount
-  - Average Interest Rate: Overall
-      - Average Interest Rate: MTD
-      - Average Interest Rate: MoM
-  - Average Debt-to-Income Ration(DTI): Overall
-      - Average DTI: MTD
-      - Average DTI: MoM
+    - Total Loan Applications
+        - Month to Date(MTD) Applications
+        - Month on Month(MoM) Change in Applications
+    - Total Disbursal Amount
+        - MTD Disbursal Amount
+        - MoM Disbursal Amount
+    - Total Collection Amount
+        - MTD Collection Amount
+        - MoM Collection Amount
+    - Average Interest Rate: Overall
+        - Average Interest Rate: MTD
+        - Average Interest Rate: MoM
+    - Average Debt-to-Income Ration(DTI): Overall
+        - Average DTI: MTD
+        - Average DTI: MoM
 2. Good Loan Measures
   - Good loan applications percentage
   - Total Good loan applications
