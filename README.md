@@ -39,12 +39,12 @@ To visualize loans data for easy and better understanding of various KPIs and me
       - Collection Amount
       - Average Interest Rate
       - Average DTI
-5. **Applications by Month(Line chart)**
-6. **Applications by State(Map)**
-7. **Applications by Tenor(Donut Chart)**
-8. **Applications by Employment Period(Bar Chart)**
-9. **Applications by Purpose(Bar Chart)**
-10. **Applications by House Ownership(Tree Map)**
+5. **Applications by Month**(Line chart)
+6. **Applications by State**(Map)
+7. **Applications by Tenor**(Donut Chart)
+8. **Applications by Employment Period**(Bar Chart)
+9. **Applications by Purpose**(Bar Chart)
+10. **Applications by House Ownership**(Tree Map)
 
 
 
