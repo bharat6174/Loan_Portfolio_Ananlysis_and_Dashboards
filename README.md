@@ -1,7 +1,7 @@
 # Loan_Portfolio_Excel_Dashboards
 
 ## Project Objective
-To visualize loans data for easy and better understanding of various KPIs and metrics. By using the stakeholders can take informed decisions for future approvals
+To visualize loans data for easy and better understanding of various KPIs and metrics. Using which the stakeholders can take informed decisions for future approvals and business needs.
 
 ## Dataset used
 - <a href="https://github.com/bharat6174/Loan_Portfolio_Dashboards/blob/main/The%20Project%20-%20Data_Pivots_Dashboard.xlsx">Dataset</a>
