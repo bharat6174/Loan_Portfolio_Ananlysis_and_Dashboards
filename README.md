@@ -46,11 +46,13 @@ To visualize loans data for easy and better understanding of various KPIs and me
 9. **Applications by Purpose**(Bar Chart)
 10. **Applications by House Ownership**(Tree Map)
 
+## Dashboards
+**Dashboard 1 - Summary Dashboard**
+It has visualizations for KPIs 1 to 4
 
+**Dashboard 2 - Applications Dashboard**
+It has KPIs 1 and 5 to 10
 
-- Which Channel is contributing maximum to the sales?
-- Highest selling category?
-- Percentage of Total Orders delivere
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
