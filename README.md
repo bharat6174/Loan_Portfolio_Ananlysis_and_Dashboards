@@ -4,7 +4,7 @@
 To visualize loans data for easy and better understanding of various KPIs and metrics. Using which the stakeholders can take informed decisions for future approvals and business needs.
 
 ## Dataset used
-- Dataset: <a href="https://github.com/bharat6174/Loan_Portfolio_Dashboards/blob/main/The%20Project%20-%20Data_Pivots_Dashboard.xlsx">The Project - Data_Pivots_Dashboard.xlsx</a>(open it then click on _**View raw**_ to download the excel file)
+- Dataset: <a href="https://github.com/bharat6174/Loan_Portfolio_Dashboards/blob/main/The%20Project%20-%20Data_Pivots_Dashboard.xlsx">The Project - Data_Pivots_Dashboard.xlsx</a> (open it then click on _**View raw**_ to download the excel file)
 
 ## Questions (KPIs)
 1. **Aggregate Measures**(on both dashboards)
