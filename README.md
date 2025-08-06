@@ -1,4 +1,5 @@
 # Loan_Portfolio_Dashboard
+
 ## Project Objective
 To visualize loans data for easy and better understanding of various KPIs and metrics. By using the stakeholders can take informed decisions for future approvals
 
@@ -48,9 +49,14 @@ To visualize loans data for easy and better understanding of various KPIs and me
 ## Dashboards
 **Dashboard 1 - Summary Dashboard**
 It has visualizations for KPIs 1 to 4
+<img width="1547" height="820" alt="Dashboard_1" src="https://github.com/user-attachments/assets/d0c78f6b-f8eb-484c-bf92-746dc41a9563" />
+
 
 **Dashboard 2 - Applications Dashboard**
 It has KPIs 1 and 5 to 10
+<img width="1550" height="821" alt="Dashboard_2" src="https://github.com/user-attachments/assets/884b6f4b-34f5-488a-932b-c37626cb9bb6" />
+
+
 
 
 ## Process
