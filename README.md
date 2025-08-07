@@ -55,7 +55,7 @@ To visualize loans data for easy and better understanding of various KPIs and me
 6. Making the dashboards and formatting the tiles and charts in the dashboards as per the requirement and visual appeal.
 7. At last creating 2 slicers for filtering in the pivot table sheet and attaching the same on dashboards
 8. Adding switch tiles on left side of the dashboards for faster switching between both dashboards and the data(loan_data).<br>
-**Note:** The **MoM rate** in the dashboard is w.r.t Nov-Dec as the dataset is limited to the year 2021.
+**Note:** The **MoM rate** in the dashboard is w.r.t Nov-Dec as the dataset is limited to the year 2021.<br>
 **Note:** The interaction with the dashboards and slicers is only possible in the attached excel sheet(The Project - Data_Pivots_Dashboard.xlsv) in this repository, not in the attached images of dashboards.
 
 ## Dashboards
