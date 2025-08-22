@@ -56,7 +56,7 @@ To visualize loans data for easy and better understanding of various KPIs and me
 4. For the 2nd dashboard, created a parameter with 3 measures - Loan Accounts, Disbursal Amount, Colleiton Amount to reflect these on KPIs 5 to 6.
 5. Then created 6 different types of charts for KPIs 5 to 10 with above parameter and placed them on the 2nd dashboard.
 6. For the 3rd dashboard, simply placed some categorical columns with respective measures in a table.
-7. Added 3 items for filtering the data in the all sheets and same items as slicers in all 3 dashboards.
+7. Added 3 items for filtering the data in all the sheets and same items as slicers in all 3 dashboards.
 8. Turned on the filter tool on every dashboard element to use as filter for all other elements and with applicability on all 3 dashboards simultaneously. 
 9. Added 3 navigation switches on left side of the dashboards for faster switching between all the dashboards.<br>
 ### In Excel
@@ -65,7 +65,7 @@ To visualize loans data for easy and better understanding of various KPIs and me
 5. Created 2 seperate sheets, 1 for each dashboard(named as **Dashboard 1**and **Dashboard 2** in the excel file attached).
 6. Made the dashboards and formatted the tiles and charts in the dashboards as per the requirement and visual appeal.
 7. At last added 2 slicers for filtering in the pivot table sheet and attaching the same on dashboards.
-8. Adding switch tiles on left side of the dashboards for faster switching between both dashboards and the data(loan_data).<br>
+8. Added switch tiles on left side of the dashboards for faster switching between both dashboards and the data(loan_data).<br>
 
 
 **Note:** There are 3 dashboards in Tableau and 2 in Excel as the main data sheet in Excel is doing the same work as the **Details (Dashboard No. 3)** is doing in Tableau.<br>
