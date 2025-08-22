@@ -51,7 +51,7 @@ To visualize loans data for easy and better understanding of various KPIs and me
 2. Analysing the data requirement for various KPIs.
 ### In Tableau
 1. Importing data in a new tableau file.
-2. Creating multiple sheets for various KPIs(1 to 4) with the help of multiple calculated fields.
+2. Created multiple sheets for various KPIs(1 to 4) with the help of multiple calculated fields.
 3. Placed the KPIs on a new dashboard with appropriate formatting for visual appeal.
 4. For the 2nd dashboard, created a parameter with 3 measures - Loan Accounts, Disbursal Amount, Colleiton Amount to reflect these on KPIs 5 to 6.
 5. Then created 6 different types of charts for KPIs 5 to 10 with above parameter and placed them on the 2nd dashboard along with the above 3 measures as a drop down item.
