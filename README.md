@@ -72,6 +72,24 @@ To visualize loans data for easy and better understanding of various KPIs and me
 **Note:** The **MoM rate** in the dashboard is w.r.t Nov-Dec as the dataset is limited to the year 2021.<br>
 **Note:** The interaction with the dashboards and slicers is only possible in the attached excel sheet(The Project - Data_Pivots_Dashboard.xlsv) in this repository and the Tableau file, not in the attached images of dashboards.
 
+## Dashboards in Tableau
+**Dashboard 1 - Summary Dashboard**<br>
+It has visualizations for KPIs 1 to 4<br>
+<img width="1559" height="877" alt="image" src="https://github.com/user-attachments/assets/621aa9d9-2cf9-4f32-a78b-c8efa94fe8c2" />
+- <a href="https://github.com/bharat6174/Loan_Portfolio_Ananlysis_and_Dashboards/blob/main/Dashboard%201.png">View Dashboard</a><br>
+
+
+**Dashboard 2 - Overview Dashboard**<br>
+It has visualizations KPIs 1 and 5 to 10<br>
+<img width="1560" height="879" alt="image" src="https://github.com/user-attachments/assets/e4c04fb2-5b4a-4e8b-bd07-b32f61da0c59" />
+- <a href="https://github.com/bharat6174/Loan_Portfolio_Ananlysis_and_Dashboards/blob/main/Dashboard%202.png">View Dashboard</a><br>
+
+
+**Dashboard 3 - Details Dashboard**<br>
+It has a crisp view of various categories and repective measures<br>
+<img width="1559" height="876" alt="image" src="https://github.com/user-attachments/assets/bcc32248-e26f-486b-82d5-1e4de446cbbe" />
+- <a href="https://github.com/bharat6174/Loan_Portfolio_Ananlysis_and_Dashboards/blob/main/Dashboard%203.png">View Dashboard</a><br>
+
 ## Dashboards in Excel
 **Dashboard 1 - Summary Dashboard**<br>
 It has visualizations for KPIs 1 to 4<br>
