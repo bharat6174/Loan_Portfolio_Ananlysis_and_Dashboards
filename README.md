@@ -68,9 +68,10 @@ To visualize loans data for easy and better understanding of various KPIs and me
 8. Added switch tiles on left side of the dashboards for faster switching between both dashboards and the data(loan_data).<br>
 
 
-**Note:** There are 3 dashboards in Tableau and 2 in Excel as the main data sheet in Excel is doing the same work as the **Details (Dashboard No. 3)** is doing in Tableau.<br>
-**Note:** The **MoM rate** in the dashboard is w.r.t Nov-Dec as the dataset is limited to the year 2021.<br>
-**Note:** The interaction with the dashboards and slicers is only possible in the attached excel sheet(The Project - Data_Pivots_Dashboard.xlsv) in this repository and the Tableau file, not in the attached images of dashboards.
+**Note:** <br>
+1. There are 3 dashboards in Tableau and 2 in Excel as the main data sheet in Excel is doing the same work as the **Details (Dashboard No. 3)** is doing in Tableau.
+2. The **MoM rate** in the dashboard is w.r.t Nov-Dec as the dataset is limited to the year 2021.
+3. The interaction with the dashboards and slicers is only possible in the attached excel sheet(The Project - Data_Pivots_Dashboard.xlsv) in this repository and the Tableau file, not in the attached images of dashboards.
 
 ## Dashboards in Tableau
 **Dashboard 1 - Summary Dashboard**<br>
