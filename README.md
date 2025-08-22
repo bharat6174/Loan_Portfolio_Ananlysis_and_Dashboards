@@ -1,4 +1,4 @@
-# Loan_Portfolio_Excel_Dashboards
+# Loan_Portfolio_Tableau_&_Excel_Dashboards
 
 ## Project Objective
 To visualize loans data for easy and better understanding of various KPIs and metrics. Using which the stakeholders can take informed decisions for future approvals and business needs.
