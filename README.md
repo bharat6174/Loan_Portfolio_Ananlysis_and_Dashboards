@@ -80,7 +80,7 @@ It has visualizations for KPIs 1 to 4<br>
 
 
 **Dashboard 2 - Overview Dashboard**<br>
-It has visualizations KPIs 1 and 5 to 10<br>
+It has visualizations for KPIs 1 and 5 to 10<br>
 <img width="1560" height="879" alt="image" src="https://github.com/user-attachments/assets/e4c04fb2-5b4a-4e8b-bd07-b32f61da0c59" />
 - <a href="https://github.com/bharat6174/Loan_Portfolio_Ananlysis_and_Dashboards/blob/main/Dashboard%202.png">View Dashboard</a><br>
 
@@ -98,6 +98,6 @@ It has visualizations for KPIs 1 to 4<br>
 
 
 **Dashboard 2 - Applications Dashboard**<br>
-It has visualizations KPIs 1 and 5 to 10<br>
+It has visualizations for KPIs 1 and 5 to 10<br>
 <img width="1550" height="821" alt="Dashboard_2" src="https://github.com/user-attachments/assets/884b6f4b-34f5-488a-932b-c37626cb9bb6" /><br>
 - <a href="https://github.com/bharat6174/Loan_Portfolio_Dashboards/blob/main/Dashboard_2.png">View Dashboard</a><br>
