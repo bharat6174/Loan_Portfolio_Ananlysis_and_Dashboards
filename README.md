@@ -47,20 +47,32 @@ To visualize loans data for easy and better understanding of various KPIs and me
 10. **Applications by House Ownership**(Tree Map)
 
 ## Process
-1. Understanding the columns and their significance using data dictionary(<a href="https://github.com/bharat6174/Loan_Portfolio_Excel_Dashboards/blob/main/Data%20Dictionary.png">see dictionary</a>) and data itself.
+1. Understand the columns and their significance using data dictionary(<a href="https://github.com/bharat6174/Loan_Portfolio_Excel_Dashboards/blob/main/Data%20Dictionary.png">see dictionary</a>) and data itself.
 2. Analysing the data requirement for various KPIs.
-3. Then to create metrics and visualisations, creating appropriate pivot tables in a seperate sheet (named as **Design Sheet** in the excel file attached).
-4. Making required graphs along with respective pivot tables for various metrics and KPIs.
-5. Creating 2 seperate sheets, 1 for each dashboard(named as **Dashboard 1**and **Dashboard 2** in the excel file attached).
-6. Making the dashboards and formatting the tiles and charts in the dashboards as per the requirement and visual appeal.
-7. At last creating 2 slicers for filtering in the pivot table sheet and attaching the same on dashboards
+### In Tableau
+1. Importing data in a new tableau file.
+2. Creating multiple sheets for various KPIs(1 to 4) with the help of multiple calculated fields.
+3. Placed the KPIs on a new dashboard with appropriate formatting for visual appeal.
+4. For the 2nd dashboard, created a parameter with 3 measures - Loan Accounts, Disbursal Amount, Colleiton Amount to reflect these on KPIs 5 to 6.
+5. Then created 6 different types of charts for KPIs 5 to 10 with above parameter and placed them on the 2nd dashboard.
+6. For the 3rd dashboard, simply placed some categorical columns with respective measures in a table.
+7. Added 3 items for filtering the data in the all sheets and same items as slicers in all 3 dashboards.
+8. Turned on the filter tool on every dashboard element to use as filter for all other elements and with applicability on all 3 dashboards simultaneously. 
+9. Added 3 navigation switches on left side of the dashboards for faster switching between all the dashboards.<br>
+### In Excel
+1. To create metrics and visualisations, created appropriate pivot tables in a seperate sheet (named as **Design Sheet** in the excel file attached).
+4. Made required graphs along with respective pivot tables for various metrics and KPIs.
+5. Created 2 seperate sheets, 1 for each dashboard(named as **Dashboard 1**and **Dashboard 2** in the excel file attached).
+6. Made the dashboards and formatted the tiles and charts in the dashboards as per the requirement and visual appeal.
+7. At last added 2 slicers for filtering in the pivot table sheet and attaching the same on dashboards.
 8. Adding switch tiles on left side of the dashboards for faster switching between both dashboards and the data(loan_data).<br>
 
 
+**Note:** There are 3 dashboards in Tableau and 2 in Excel as the main data sheet in Excel is doing the same work as the **Details (Dashboard No. 3)** is doing in Tableau.<br>
 **Note:** The **MoM rate** in the dashboard is w.r.t Nov-Dec as the dataset is limited to the year 2021.<br>
-**Note:** The interaction with the dashboards and slicers is only possible in the attached excel sheet(The Project - Data_Pivots_Dashboard.xlsv) in this repository, not in the attached images of dashboards.
+**Note:** The interaction with the dashboards and slicers is only possible in the attached excel sheet(The Project - Data_Pivots_Dashboard.xlsv) in this repository and the Tableau file, not in the attached images of dashboards.
 
-## Dashboards
+## Dashboards in Excel
 **Dashboard 1 - Summary Dashboard**<br>
 It has visualizations for KPIs 1 to 4<br>
 <img width="1547" height="820" alt="Dashboard_1" src="https://github.com/user-attachments/assets/d0c78f6b-f8eb-484c-bf92-746dc41a9563" /><br>
